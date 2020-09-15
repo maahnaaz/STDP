@@ -1,1 +1,2 @@
 # STDP
+Implementingthecodefromtheoptimallocalistanddistributedcodingofspatiotemporalspikepatternsthrough STDPessay
